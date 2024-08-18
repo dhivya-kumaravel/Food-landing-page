@@ -1,0 +1,156 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwigley&display=swap');
+.qwigley-regular {
+    font-family: "Qwigley", cursive;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+.nav{
+    display: flex;
+    flex-wrap: unset;
+    align-items: center;
+    justify-content: space-between;
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+.meals{
+    display: flex;
+    color:#FFB30E;
+    margin-left: 5rem;
+    font-size: 55px;
+    }
+.rightside{
+    display: flex;
+    padding: 1rem;
+    gap: 1rem;
+    align-items: center;
+    margin-right: 5rem;
+}
+.loginbutton{
+    border-radius: 15px;
+    height: 4vh;
+    color: #FFB30E;
+    border-color:#FFB30E;
+    width: 5vw;
+    background-color: white;
+    /* border-radius: 0.3rem; */
+    }
+    .display{
+        font-size: 1.0rem;
+    }
+.searchlogin{
+        font-size: 1.0rem;
+}
+.container{
+    display: flex;
+    background-color: #FDBE35;
+    height: 400px;
+    align-items: center;
+    justify-content: space-around;
+
+}
+.look{
+    color:#FFFFFF;
+    font-size: 60px;
+}
+.option{
+    display: flex;
+    align-items: center;
+    justify-items: space-around;
+    font-size: 0.8rem;}
+.leaf{
+    width: 410px;
+}
+.whitebox{
+    background-color: #FFFFFF;
+    justify-content: space-around;
+    width: 40vw;
+    height: 15vh;
+    align-items: center;
+    padding-top: 1rem;
+    margin-bottom: 3rem;
+    }
+.foodbutton{
+    background: #F17228;
+color: #FFFFFF;
+height: 5vh;
+/* width: 9vw; */
+border-radius: 0.5rem;
+border-color: #F17228;
+}
+.deliverybtn{
+    background: #F1722833;
+    color: #F17228; 
+    width: 7vw;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    font-size: 1.5rem;
+    height: 4vh;
+    align-items: center;
+}
+.inputboxfindfoof{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    margin-top: 2rem;
+    height: 2vh;
+    padding-bottom: 80%;
+}
+.pickupbtn{
+    display: flex;
+    width: 7vw;
+        height: 5vh;
+    align-items: center;
+    border-color: #ffffff;
+    color: #757575
+    }
+.enterbox{
+    border-color: white;
+    width: 30vw;
+    background-color: #F5F5F5;
+    margin: 1rem;
+}
+.again{
+    color: #757575;
+    border: none;
+    background: #ffffff;
+}
+.deliv{
+    color: #F17228;
+    border: none;
+    background: #F1722833;
+    padding-bottom: 1rem;
+    background: none;
+}
+.btn{
+    color: #FFFFFF;
+    background: #F17228;
+    padding-left: 0.3rem;
+    margin-right: 0.3rem;
+}
+
+.lite color{
+    border: 1px solid #FFAC0D
+}
+
+.logo
+{color: #F17228;}
+
+.dishes{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-top: 2.5rem;
+    padding-left: 25rem;
+    }
+.card{
+     row-gap: 10%;
+      img {
+    width: 70%;
+     }
+     span{
+        color: #F17228;
+        background: #F1722833;
+     }
+}
